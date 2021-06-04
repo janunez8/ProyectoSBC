@@ -1,3 +1,3 @@
 # ProyectoSBC
-Integrante: Jefferson Nuñez
-            José Pullaguari
+
+### Integrantes: Jefferson Nuñez - José Pullaguari
